@@ -15,7 +15,7 @@ concurrency:
 
 env:
   REGISTRY: harbor.astera.sh
-  IMAGE_PREFIX: library
+  IMAGE_PREFIX: dynamicpdb
   BACKEND_COVERAGE_THRESHOLD: "30"
   WEBSITE_COVERAGE_THRESHOLD: "45"
   GOLANGCI_LINT_VERSION: "v2.11"
